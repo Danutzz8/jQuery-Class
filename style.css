@@ -1,5 +1,6 @@
 body {
     height: 170vh;
+    background-color: #b9b9b9;
 }
 
 #textBox {
@@ -23,7 +24,7 @@ body {
 
 #box {
     margin: 2em;
-    background-color: orangered;
+    background-color: rgb(255, 115, 0);
     width: 10vw;
     height: 10vh;
     position: relative;
